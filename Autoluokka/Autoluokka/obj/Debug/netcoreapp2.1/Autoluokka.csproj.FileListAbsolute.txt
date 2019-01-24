@@ -9,3 +9,14 @@ C:\dev\digitrade\Olio\Autoluokka\Autoluokka\bin\Debug\netcoreapp2.1\Autoluokka.d
 C:\dev\digitrade\Olio\Autoluokka\Autoluokka\bin\Debug\netcoreapp2.1\Autoluokka.pdb
 C:\dev\digitrade\Olio\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.dll
 C:\dev\digitrade\Olio\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.pdb
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\bin\Debug\netcoreapp2.1\Autoluokka.deps.json
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\bin\Debug\netcoreapp2.1\Autoluokka.runtimeconfig.json
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\bin\Debug\netcoreapp2.1\Autoluokka.runtimeconfig.dev.json
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\bin\Debug\netcoreapp2.1\Autoluokka.dll
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\bin\Debug\netcoreapp2.1\Autoluokka.pdb
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.csprojAssemblyReference.cache
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.csproj.CoreCompileInputs.cache
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.AssemblyInfoInputs.cache
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.AssemblyInfo.cs
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.dll
+C:\dev\digitrade\object-oriented-programming\Autoluokka\Autoluokka\obj\Debug\netcoreapp2.1\Autoluokka.pdb
